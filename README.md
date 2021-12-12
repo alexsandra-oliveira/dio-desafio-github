@@ -6,5 +6,5 @@ Repositório criado para o Desafio do Projeto sobre Git/GitHub
 
 [Link para Download do Git](https://git-scm.com/)
 
-O Git Bash é um terminal estendido para otimizar o uso do Git.
+
 
